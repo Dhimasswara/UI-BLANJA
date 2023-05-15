@@ -56,13 +56,13 @@ This is an example of how to list things you need to use the software and how to
 - Clone This Front End Repo
 
 ```
-git clone https://github.com/dhimasswara/ui-blanja
+git clone https://github.com/dhimasswara/UI-BLANJA
 ```
 
 - Go To Folder Repo
 
 ```
-cd ui-shop-app
+cd ui
 ```
 
 - Install Module
@@ -127,10 +127,10 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Related Project
 
-:rocket: [`Backend Blanja`](https://github.com/dhimasswara/be-blanja)
+:rocket: [`Backend Blanja`](https://github.com/dhimasswara/BE-BLANJA)
 
-:rocket: [`Frontend Blanja`](https://github.com/ui0-blanja)
+:rocket: [`Frontend Blanja`](https://github.com/UI-BLANJA)
 
-:rocket: [`Demo Blanja`](https://ui-shop-app.vercel.app/)
+:rocket: [`Demo Blanja`](https://ui-blanja.vercel.app/)
 
-Project Link: [https://github.com/dhimasswara/ui-blanja](https://github.com/dhimasswara/ui-blanja)
+Project Link: [https://github.com/dhimasswara/UI-BLANJA](https://github.com/dhimasswara/UI-BLANJA)
