@@ -4,11 +4,11 @@
 </div>
   <h3 align="center">Blanja App</h3>
   <p align="center">
-    <a href="https://localhost:4000"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/dhimasswara/UI-BLANJA"><strong>Explore the docs »</strong></a>
     <br />
-    <a href="https://localhost:4000">View Demo</a>
+    <a href="https://ui-blanja.vercel.app">View Demo</a>
     <br />
-    <a href="https://localhost:4000">Api Demo</a>
+    <a href="https://be-blanja-production.up.railway.app/">Api Demo</a>
   </p>
 </p>
 
