@@ -1,0 +1,57 @@
+.img-product-detail img {
+    width: 100%;
+    /* height: 50%; */
+    object-fit: cover;
+}
+
+.child-img img {
+    width: 20% !important;
+    height: 60px;
+}
+
+/* Radio button select color */
+
+/* Red */
+.color-red[type=radio] {
+    background-image: none !important;
+    width: 40px !important;
+    height: 40px !important;
+    background-color: red !important;
+}
+.color-red:checked {
+    border-color: red !important;
+}
+
+/* Blue */
+.color-blue[type=radio] {
+    background-image: none !important;
+    width: 40px !important;
+    height: 40px !important;
+    background-color: blue !important;
+}
+.color-blue:checked {
+    border-color: blue !important;
+}
+
+/* Yellow */
+.color-yellow[type=radio] {
+    background-image: none !important;
+    width: 40px !important;
+    height: 40px !important;
+    background-color: yellow !important;
+}
+.color-yellow:checked {
+    border-color: yellow !important;
+}
+
+
+/* Green */
+.color-green[type=radio] {
+    background-image: none !important;
+    width: 40px !important;
+    height: 40px !important;
+    background-color: green !important;
+}
+.color-green:checked {
+    border-color: green !important;
+}

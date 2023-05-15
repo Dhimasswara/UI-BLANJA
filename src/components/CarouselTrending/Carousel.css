@@ -1,0 +1,62 @@
+.fashion-display {
+    width: 100% !important;
+    height: 170px !important;
+    border-radius: 10px !important;
+    -webkit-border-radius: 10px !important;
+    -moz-border-radius: 10px !important;
+    -ms-border-radius: 10px !important;
+    -o-border-radius: 10px !important;
+}
+
+.swiper-button-next, .swiper-button-prev {
+    background-color: white !important;
+    width: 35px !important;
+    height: 35px !important;
+    border-radius: 100% !important;
+    -webkit-border-radius: 100% !important;
+    -moz-border-radius: 100% !important;
+    -ms-border-radius: 100% !important;
+    -o-border-radius: 100% !important;
+    margin-right: 50px !important;
+    margin-left: 50px !important;
+}
+.swiper-button-next:after, .swiper-button-prev:after {
+    font-size: 12px !important;
+    font-weight:bold !important;
+    color: rgba(93,93,93) !important;
+    text-transform: none!important;
+    letter-spacing: 0;
+    font-variant: initial;
+    line-height: 1;
+    /* text-shadow: 1px -1px 0px rgba(93,93,93,1); */
+}
+.swiper-pagination {
+    position: relative !important;
+    text-align: start !important;
+    transition: .3s opacity;
+    /* transform: translate3d(0,0,0); */
+    z-index: 10;
+    left: 0;
+    bottom: -3px !important;
+}
+
+.swiper-pagination-bullet-active {
+    opacity: 1;
+    background: gray !important; 
+}
+
+
+@media only screen and (max-width: 769px) {
+    .swiper-button-next, .swiper-button-prev {
+        display: none !important;
+    }
+    .swiper-button-next:after, .swiper-button-prev:after {
+        display:none !important;
+    }    
+  }
+
+  @media only screen and (max-width: 425px) {
+    .swiper-slide-trend {
+        width: 100% !important;
+    } 
+  }

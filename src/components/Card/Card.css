@@ -1,0 +1,22 @@
+.__product {
+    width: 90% !important;
+    min-height: 340px !important;
+    border: 1px solid rgb(170, 170, 170);
+    border-radius: 5px;   
+}
+
+.__image img {
+    width: 100% !important;
+    height: 200px !important;
+    object-fit: cover;
+    border-radius: 5px 5px 0 0;
+}
+
+
+@media only screen and (max-width: 769px) {
+    .__product {
+        /* margin-right: 1000px !important; */
+        width: 270px !important;
+        height: 340px !important;
+    }
+  }

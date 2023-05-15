@@ -1,0 +1,15 @@
+.__form-search {
+    border-radius: 50px !important;
+    height: 35px !important;
+    /* width: 100% !important; */
+}
+
+.__form-control {
+    width: 50% !important;
+}
+
+@media only screen and (max-width: 769px) {
+    .__form-control {
+        width: 100% !important;
+    }
+  }
