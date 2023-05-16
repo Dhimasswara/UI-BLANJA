@@ -188,7 +188,7 @@ L = LD 55 cm, PB 73 cm </br>
 Kemeja Pria dengan bahan berkualitas.Gak gampang kusut, tetap terlihat rapi dan nyaman banget ketika dipakai. </br>
 Foto diambil oleh kita sendiri, bukan copy paste dari web orang lain, asli sesuai barangnya , Real Picture! </br>
 Dapetin kemeja berkualitas yang gak nguras kantong ^-^ </br>
-Grab it fast and happy shooping! </br> </br>
+Grab it fast and happy shooping! </br>
 
 Terima kasih! </br> </span>
         <h2 className="fw-bolder pt-5">Produk Review</h2>
