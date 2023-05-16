@@ -176,7 +176,21 @@ const DetailProduct = () => {
         <h5 className="pt-4">Condition</h5>
         <span>New</span>
         <h5 className="pt-4">Description</h5>
-        <span className="text-secondary">Bahan Bagus terbuat dari katun</span>
+        <span className="text-secondary">
+          Kemeja Pria Lengan Panjang Putih Original </br>
+________________________________________________________________ </br>
+
+Untuk size ready terdapat pada varian produk, mohon memilih size kemeja pada varian produk. </br>
+Spesifikasi ukuran pada setiap size : </br>
+M = LD 52 cm, PB 72 cm </br>
+L = LD 55 cm, PB 73 cm </br>
+
+Kemeja Pria dengan bahan berkualitas.Gak gampang kusut, tetap terlihat rapi dan nyaman banget ketika dipakai. </br>
+Foto diambil oleh kita sendiri, bukan copy paste dari web orang lain, asli sesuai barangnya , Real Picture! </br>
+Dapetin kemeja berkualitas yang gak nguras kantong ^-^ </br>
+Grab it fast and happy shooping! </br> </br>
+
+Terima kasih! </br> </span>
         <h2 className="fw-bolder pt-5">Produk Review</h2>
         <div className="d-flex align-items-center">
           <p className="fw-normal" style={{ fontSize: "60px" }}>
