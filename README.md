@@ -88,29 +88,29 @@ REACT_APP_ENDPOINT = [BACKEND_URL]
 
 <table>
  <tr>
-    <td><img width="350px" src=""  border="0" border="0" alt="1" /></td>
-    <td> <img width="350px" src="" \ border="0"  border="0"  border="0"  alt="2" /></td>
-  </tr>
-   <tr>
-    <td>Seller Register</td>
-    <td>Customer Register</td>
-  </tr>
-
-  <tr>
-    <td><img width="350px" src=""  border="0" border="0" alt="3" /> </td>
-     <td><img width="350px" src=""  border="0" border="0" alt="4" /></td>
+    <td><img width="350px" src="./doc/login.png"  border="0" border="0" alt="1" /></td>
+    <td> <img width="350px" src="./doc/landing.png" \ border="0"  border="0"  border="0"  alt="2" /></td>
   </tr>
    <tr>
     <td>Login</td>
-    <td>Home</td>
+    <td>Landing Page</td>
   </tr>
+
   <tr>
-    <td><img width="350px" src=""  border="0" border="0" alt="3" /> </td>
-    <td><img width="350px" src=""  border="0" border="0" alt="4" /></td>
+    <td><img width="350px" src="./doc/popular.png"  border="0" border="0" alt="3" /> </td>
+     <td><img width="350px" src="./doc/detail.png"  border="0" border="0" alt="4" /></td>
   </tr>
    <tr>
-    <td>Search Result</td>
-    <td>Product base on Category</td>
+    <td>Popular</td>
+    <td>Detail Product</td>
+  </tr>
+  <tr>
+    <td><img width="350px" src="./doc/profile-seller"  border="0" border="0" alt="3" /> </td>
+    <td><img width="350px" src="./doc/profile-customer"  border="0" border="0" alt="4" /></td>
+  </tr>
+   <tr>
+    <td>Profile Seller</td>
+    <td>Profile Customer</td>
   </tr>
 </table>
 <!-- CONTRIBUTING -->
