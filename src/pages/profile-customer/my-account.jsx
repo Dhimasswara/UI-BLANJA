@@ -15,19 +15,19 @@ const MyAccount = () => {
           <div class="mb-3 row">
             <label for="inputPassword" class="col-sm-4 col-form-label">Name</label>
             <div class="col-sm-8">
-              <input type="password" class="form-control" id="inputPassword" />
+              <input type="text" class="form-control" id="inputPassword" />
             </div>
           </div>
           <div class="mb-3 row">
             <label for="inputPassword" class="col-sm-4 col-form-label">Email</label>
             <div class="col-sm-8">
-              <input type="password" class="form-control" id="inputPassword" />
+              <input type="text" class="form-control" id="inputPassword" />
             </div>
           </div>
           <div class="mb-3 row">
             <label for="inputPassword" class="col-sm-4 col-form-label">Phone Number</label>
             <div class="col-sm-8">
-              <input type="password" class="form-control" id="inputPassword" />
+              <input type="text" class="form-control" id="inputPassword" />
             </div>
           </div>
           <div class="mb-3 row align-items-center">
