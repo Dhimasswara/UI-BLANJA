@@ -98,7 +98,7 @@ REACT_APP_ENDPOINT = [BACKEND_URL]
 
   <tr>
     <td><img width="350px" src="./doc/landing.png"  border="0" border="0" alt="3" /> </td>
-     <td><img width="350px" src="./doc/Detail.png"  border="0" border="0" alt="4" /></td>
+     <td><img width="350px" src="./doc/detail.png"  border="0" border="0" alt="4" /></td>
   </tr>
    <tr>
     <td>Landing</td>
@@ -121,7 +121,7 @@ REACT_APP_ENDPOINT = [BACKEND_URL]
     <td>Checkout</td>
   </tr>
    <tr>
-    <td><img width="350px" src="./doc/Address.png"  border="0" border="0" alt="3" /> </td>
+    <td><img width="350px" src="./doc/address.png"  border="0" border="0" alt="3" /> </td>
     <td><img width="350px" src="./doc/add-product.png"  border="0" border="0" alt="4" /></td>
   </tr>
    <tr>
