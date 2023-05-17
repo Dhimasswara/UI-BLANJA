@@ -1,6 +1,6 @@
 <p align="center">
 <div align="center">
-  <img height="150" src="./doc/blanja.png" alt="blanja-logo" border="0"/>
+  <img height="150" src="./doc/logo.png" alt="blanja-logo" border="0"/>
 </div>
   <h3 align="center">Blanja App</h3>
   <p align="center">
@@ -89,20 +89,20 @@ REACT_APP_ENDPOINT = [BACKEND_URL]
 <table>
  <tr>
     <td><img width="350px" src="./doc/login.png"  border="0" border="0" alt="1" /></td>
-    <td> <img width="350px" src="./doc/landing.png" \ border="0"  border="0"  border="0"  alt="2" /></td>
+    <td> <img width="350px" src="./doc/register.png" \ border="0"  border="0"  border="0"  alt="2" /></td>
   </tr>
    <tr>
     <td>Login</td>
-    <td>Landing Page</td>
+    <td>Register</td>
   </tr>
 
   <tr>
-    <td><img width="350px" src="./doc/popular.png"  border="0" border="0" alt="3" /> </td>
-     <td><img width="350px" src="./doc/detail.png"  border="0" border="0" alt="4" /></td>
+    <td><img width="350px" src="./doc/landing.png"  border="0" border="0" alt="3" /> </td>
+     <td><img width="350px" src="./doc/Detail.png"  border="0" border="0" alt="4" /></td>
   </tr>
    <tr>
-    <td>Popular</td>
-    <td>Detail Product</td>
+    <td>Landing</td>
+    <td>Detail</td>
   </tr>
   <tr>
     <td><img width="350px" src="./doc/profile-seller.png"  border="0" border="0" alt="3" /> </td>
@@ -112,12 +112,26 @@ REACT_APP_ENDPOINT = [BACKEND_URL]
     <td>Profile Seller</td>
     <td>Profile Customer</td>
   </tr>
+   <tr>
+    <td><img width="350px" src="./doc/mybag.png"  border="0" border="0" alt="3" /> </td>
+    <td><img width="350px" src="./doc/checkout.png"  border="0" border="0" alt="4" /></td>
+  </tr>
+   <tr>
+    <td>Mybag</td>
+    <td>Checkout</td>
+  </tr>
+   <tr>
+    <td><img width="350px" src="./doc/Address.png"  border="0" border="0" alt="3" /> </td>
+    <td><img width="350px" src="./doc/add-product.png"  border="0" border="0" alt="4" /></td>
+  </tr>
+   <tr>
+    <td>Address</td>
+    <td>Add Product</td>
+  </tr>
   <tr>
-    <td><img width="350px" src="./doc/add-product.png"  border="0" border="0" alt="3" /> </td>
     <td><img width="350px" src="./doc/update-product.png"  border="0" border="0" alt="4" /></td>
   </tr>
    <tr>
-    <td>Add Product</td>
     <td>Update Product</td>
   </tr>
 </table>
