@@ -6,7 +6,7 @@ import CarouselCat from "../../components/CarouselCategory/CarouselCat";
 import Card from "../../components/Card/Card";
 
 // Image Static
-import shirt1 from "../../assets/product/shirt1.jpg.jpg";
+import shirt1 from "../../assets/product/shirt1.jpg";
 import shirt2 from "../../assets/product/shirt2.jpg";
 import shirt3 from '../../assets/product/shirt3.jpg'
 import shirt4 from '../../assets/product/shirt4.jpg'
@@ -31,16 +31,16 @@ const Home = () => {
       <Section header={"New"} title={"You’ve never seen it before!"}>
         <div className=" __product-section d-flex flex-lg-wrap">
           <div className="col-lg-3 col-md-6 col-12 __margin-right">
-            <Card name={"Kemeja Putih"} price={"Rp.500.000"} img={shirt1} />
+            <Card name={"Kemeja Jeans"} price={"Rp.400.000"} img={shirt1} />
           </div>
           <div className="col-lg-3 col-md-6 col-12 __margin-right">
-            <Card name={"Kemeja Putih Cotton"} price={"Rp.750.000"} img={shirt2} />
+            <Card name={"Kemeja Hitam Kotak"} price={"Rp.550.000"} img={shirt2} />
           </div>
           <div className="col-lg-3 col-md-6 col-12 __margin-right">
-            <Card name={"Kemeja Biru Square"} price={"Rp.350.000"} img={shirt3} />
+            <Card name={"Kaos Olahraga Biru"} price={"Rp.350.000"} img={shirt3} />
           </div>
           <div className="col-lg-3 col-md-6 col-12 __margin-right">
-            <Card name={"Kemeja Biru Donker"} price={"Rp.319.000"} img={shirt4} />
+            <Card name={"Kaos Hijau Polos"} price={"Rp.319.000"} img={shirt4} />
           </div>
         </div>
       </Section>
@@ -51,28 +51,28 @@ const Home = () => {
       >
         <div className=" __product-section d-flex flex-lg-wrap">
           <div className="col-lg-3 col-md-6 col-12 __margin-right">
-            <Card name={"Kemeja Putih"} price={"Rp.500.000"} img={shirt1} />
+            <Card name={"Kemeja Jeans"} price={"Rp.400.000"} img={shirt1} />
           </div>
           <div className="col-lg-3 col-md-6 col-12 __margin-right">
-            <Card name={"Kemeja Putih Cotton"} price={"Rp.750.000"} img={shirt2} />
+            <Card name={"Kemeja Hitam Kotak"} price={"Rp.550.000"} img={shirt2} />
           </div>
           <div className="col-lg-3 col-md-6 col-12 __margin-right">
-            <Card name={"Kemeja Biru Square"} price={"Rp.350.000"} img={shirt3} />
+            <Card name={"Kaos Olahraga Biru"} price={"Rp.350.000"} img={shirt3} />
           </div>
           <div className="col-lg-3 col-md-6 col-12 __margin-right">
-            <Card name={"Kemeja Biru Donker"} price={"Rp.319.000"} img={shirt4} />
+            <Card name={"Kaos Hijau Polos"} price={"Rp.319.000"} img={shirt4} />
           </div>
           <div className="col-lg-3 col-md-6 col-12 __margin-right">
-            <Card name={"Kemeja Biru Awan"} price={"Rp.459.000"} img={shirt5} />
+            <Card name={"Kaos Putih Polos"} price={"Rp.159.000"} img={shirt5} />
           </div>
           <div className="col-lg-3 col-md-6 col-12 __margin-right">
-            <Card name={"Kemeja Merah Marron"} price={"Rp.515.000"} img={shirt6} />
+            <Card name={"Kemeja Biru Awan"} price={"Rp.515.000"} img={shirt6} />
           </div>
           <div className="col-lg-3 col-md-6 col-12 __margin-right">
-            <Card name={"Kemeja Motif Pantai"} price={"Rp.320.000"} img={shirt7} />
+            <Card name={"Jacket Bomber Coklat"} price={"Rp.520.000"} img={shirt7} />
           </div>
           <div className="col-lg-3 col-md-6 col-12 __margin-right">
-            <Card name={"Kemeja Cream"} price={"Rp.219.000"} img={shirt8} />
+            <Card name={"Jacket Kuning"} price={"Rp.419.000"} img={shirt8} />
           </div>
         </div>
       </Section>

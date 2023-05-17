@@ -9,7 +9,7 @@ import ModalUpdate from '../../components/ModalUpdate/ModalUpdate'
 import ModalDelete from '../../components/ModalDelete/ModalDelete'
 import ModalCreate from '../../components/ModalCreate/ModalCreate'
 
-import shirt1 from '../../assets/product/shirt1.jpg.jpg'
+import shirt1 from '../../assets/product/shirt1.jpg'
 import shirt2 from '../../assets/product/shirt2.jpg'
 import shirt3 from '../../assets/product/shirt3.jpg'
 import shirt4 from '../../assets/product/shirt4.jpg'
@@ -56,59 +56,59 @@ const Product = () => {
   const data = [
     {
       id: 1,
-      title: 'Kemeja Putih',
+      title: 'Kemeja Jeans',
       stock: '2',
-      price: 'Rp. 500.000',
+      price: 'Rp. 400.000',
       picture: <img src={shirt1} alt=""  style={{width: '50px', height: '50px', objectFit: 'cover', margin: '10px'}}/>
 
     },
     {
       id: 2,
-      title: 'Kemeja Putih Cotton',
+      title: 'Kemeja Hitam Kotak',
       stock: '1',
-      price: 'Rp. 750.000',
+      price: 'Rp. 550.000',
       picture: <img src={shirt2} alt=""  style={{width: '50px', height: '50px', objectFit: 'cover', margin: '10px'}}/>
     },
     {
       id: 3,
-      title: 'Kemeja Biru Square',
+      title: 'Kaos Olahraga Biru',
       stock: '4',
       price: 'Rp. 350.000',
       picture: <img src={shirt3} alt=""  style={{width: '50px', height: '50px', objectFit: 'cover', margin: '10px'}}/>
     },
     {
       id: 4,
-      title: 'Kemeja Biru Donker',
+      title: 'Kaos Hijau Polos',
       stock: '2',
       price: 'Rp. 319.000',
       picture: <img src={shirt4} alt=""  style={{width: '50px', height: '50px', objectFit: 'cover', margin: '10px'}}/>
     },
     {
       id: 5,
-      title: 'Kemeja Biru Awan',
+      title: 'Kaos Putih Polos',
       stock: '2',
-      price: 'Rp. 459.000',
+      price: 'Rp. 159.000',
       picture: <img src={shirt5} alt=""  style={{width: '50px', height: '50px', objectFit: 'cover', margin: '10px'}}/>
     },
     {
       id: 6,
-      title: 'Kemeja Merah Marron',
+      title: 'Kemeja Biru Awan',
       stock: '2',
       price: 'Rp. 515.000',
       picture: <img src={shirt6} alt=""  style={{width: '50px', height: '50px', objectFit: 'cover', margin: '10px'}}/>
     },
     {
       id: 7,
-      title: 'Kemeja Motif Pantai',
+      title: 'Jacket Bomber Coklat',
       stock: '2',
-      price: 'Rp. 320.000',
+      price: 'Rp. 520.000',
       picture: <img src={shirt7} alt=""  style={{width: '50px', height: '50px', objectFit: 'cover', margin: '10px'}}/>
     },
     {
       id: 8,
-      title: 'Kemeja Cream',
+      title: 'Jacket Kuning',
       stock: '2',
-      price: 'Rp. 219.000',
+      price: 'Rp. 419.000',
       picture: <img src={shirt8} alt=""  style={{width: '50px', height: '50px', objectFit: 'cover', margin: '10px'}}/>
     },
   ]

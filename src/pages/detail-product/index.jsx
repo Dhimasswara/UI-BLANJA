@@ -10,7 +10,7 @@ import Section from "../../components/Section/Section";
 import Card from "../../components/Card/Card";
 
 // Image Static
-import shirt1 from "../../assets/product/shirt1.jpg.jpg";
+import shirt1 from "../../assets/product/shirt1.jpg";
 import shirt2 from "../../assets/product/shirt2.jpg";
 import shirt3 from '../../assets/product/shirt3.jpg'
 import shirt4 from '../../assets/product/shirt4.jpg'
@@ -24,20 +24,20 @@ const DetailProduct = () => {
     <Layout>
       <div className="row mt-5">
         <div className="col-12 col-md-4 img-product-detail p-3">
-          <img src={shirt} alt="" />
+          <img src={shirt1} alt="" />
           <div className="row pt-2">
             <div className="col-12">
               <span className="child-img d-flex justify-content-between">
-                <img src={shirt} alt="" />
-                <img src={shirt} alt="" />
-                <img src={shirt} alt="" />
-                <img src={shirt} alt="" />
+                <img src={shirt1} alt="" />
+                <img src={shirt1} alt="" />
+                <img src={shirt1} alt="" />
+                <img src={shirt1} alt="" />
               </span>
             </div>
           </div>
         </div>
         <div className="col-12 col-md-8 p-3">
-          <h3 className="fw-bolder">Kemeja Putih</h3>
+          <h3 className="fw-bolder">Kemeja Jeans</h3>
           <span
             className="text-secondary d-block mb-2"
             style={{ fontSize: "14px" }}
@@ -46,7 +46,7 @@ const DetailProduct = () => {
           </span>
           <Rating></Rating>
           <p className="pt-4 pb-1 mb-1">Price</p>
-          <h2 className="fw-bolder">Rp. 250.000</h2>
+          <h2 className="fw-bolder">Rp. 400.000</h2>
           <p className="pt-4 pb-1 mb-1"> Color</p>
           <div class="form-check form-check-inline">
             <input

@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 // Img
-import shirt1 from "../../assets/product/shirt1.jpg.jpg";
+import shirt1 from "../../assets/product/shirt1.jpg";
 import shirt2 from "../../assets/product/shirt2.jpg";
 
 import { faMinus, faPlus } from "@fortawesome/free-solid-svg-icons";
@@ -60,7 +60,7 @@ const MyBag = () => {
                     />
                   </div>
                   <div className="des">
-                    <span className="ms-3 fw-bolder fs-6">Kemeja Putih</span>
+                    <span className="ms-3 fw-bolder fs-6">Kemeja Jeans</span>
                     <p className="ms-3" style={{ fontSize: "13px" }}>
                       Store Shirt
                     </p>
@@ -93,7 +93,7 @@ const MyBag = () => {
               </div>
 
               <div className="price">
-                <span className="fw-bolder ">Rp. 500.000</span>
+                <span className="fw-bolder ">Rp. 400.000</span>
               </div>
             </div>
 
@@ -118,7 +118,7 @@ const MyBag = () => {
                     />
                   </div>
                   <div className="des">
-                    <span className="ms-3 fw-bolder fs-6">Kemeja Putih Cotton</span>
+                    <span className="ms-3 fw-bolder fs-6">Kemeja Hitam Kotak</span>
                     <p className="ms-3" style={{ fontSize: "13px" }}>
                       Store Shirt
                     </p>
@@ -151,7 +151,7 @@ const MyBag = () => {
               </div>
 
               <div className="price">
-                <span className="fw-bolder ">Rp. 750.000</span>
+                <span className="fw-bolder ">Rp. 550.000</span>
               </div>
             </div>
           </div>
@@ -164,7 +164,7 @@ const MyBag = () => {
           <h5 className="fw-bolder">Shopping summary</h5>
           <div className="price justify-content-between d-flex">
             <p className="py-4 text-secondary">Total price</p>
-            <p className="py-4 fw-bolder fs-5">Rp. 1.250.000</p>
+            <p className="py-4 fw-bolder fs-5">Rp. 950.000</p>
           </div>
           <button className="btn btn-danger mb-5" style={{ width: "100%" }}>
             Buy

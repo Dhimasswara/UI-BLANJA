@@ -7,6 +7,8 @@ import MyBag from './pages/mybag'
 import ProfileCustomer from './pages/profile-customer'
 import { Routes, Route } from 'react-router-dom'
 import ProfileSeller from './pages/profile-seller'
+import Checkout from './pages/checkout'
+import AuthRegister from './pages/auth/Register'
 
 
 function App() {
@@ -17,6 +19,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/mybag" element={ <MyBag /> }/>
+        <Route path="/checkout" element={ <Checkout /> }/>
         <Route path="/detail-product" element={ <DetailProduct /> }/>
         <Route path="/profile-customer" element={ <ProfileCustomer /> } />
         <Route path="/profile-customer/test" element={ <ProfileCustomer /> } />
@@ -26,6 +29,8 @@ function App() {
         <Route path="/profile-seller/product" element={ <ProfileSeller /> } />
 
         <Route path="/login" element={ <AuthLogin /> }/>
+        <Route path="/register" element={ <AuthRegister /> }/>
+
 
 
       </Routes>
